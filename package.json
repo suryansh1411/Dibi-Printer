@@ -1,0 +1,17 @@
+{
+  "name": "dibi-printer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Suryansh Singh",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^25.3.1",
+    "ghostscript4js": "^3.2.1",
+    "ipp-printer": "^1.0.0",
+    "node-gyp": "^9.4.0"
+  }
+}
